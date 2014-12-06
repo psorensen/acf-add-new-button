@@ -1,10 +1,11 @@
-# ACF: 'Add New' Button
+## ACF: 'Add New' Button
 
-## Description
+
+#### Description
 
 A plugin for ACF that adds an ‘Add New’ button to the Relationship Field so you can create a new post without leaving the form your working on.
 
-## Installation
+#### Installation
 
 * Install the plug-in (ACF component is needed!)
 * Set up a relationship field with only one related item
